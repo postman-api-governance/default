@@ -252,3 +252,8 @@ Here are some of the ways in which this governance can be applied.
 
 - [Postman Collection](https://www.getpostman.com/collections/810d5c973670408cd1fc) - A Postman Collection that actually executes these rules against an API.
 - Postman Documentation - The documentation for this collection, outlining how it all works.
+
+## Get Involved
+
+- GitHub Issues - You can submit an issue for this repository making suggestions or asking questions.
+- Twitter - You can tweet @apievangelist and ask questions, or provide suggestions for the road map.
